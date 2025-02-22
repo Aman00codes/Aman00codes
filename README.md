@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi there, I'm Rohan Singh 👋
 
-<!--
-**Aman00codes/Aman00codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍🎓 About Me
+I'm a Computer Science Engineering student at Amity University Mohali. I have a keen interest in Web Development and I'm passionate about Cricket.
 
-Here are some ideas to get you started:
+### 💻 Skills
+- **Version Control**: Git & GitHub
+- **Web Development**: HTML, CSS, JavaScript
+- **Programming Languages**: C
+- **Learning**: Machine Learning, Frontend Frameworks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects
+- [Student Health Hub](https://github.com/Aman00codes/student-health-hub?tab=readme-ov-file): A project I developed during an online hackathon.
+
+### 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/rohan-singh-4b2874352/)
+
+### ⚽ Fun Fact
+I love playing cricket in my free time!
